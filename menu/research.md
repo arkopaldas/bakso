@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: research
 title: Research
 permalink: /research
 ---
