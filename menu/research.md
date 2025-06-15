@@ -3,4 +3,17 @@ layout: page
 title: Research
 permalink: /research
 ---
-I do Research
+
+Hi i do research 
+
+# Publications
+
+## Preprints
+
+ - hh
+
+
+## Published Works
+
+
+# Presentations
