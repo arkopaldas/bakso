@@ -4,7 +4,7 @@ title: Research
 permalink: /research
 ---
 
-Hi i do research 
+
 
 # Publications
 
