@@ -9,9 +9,10 @@ disqus:
 menu:
 - {name: 'Research', url: 'research.html'}
 # - {name: 'About',    url: 'about.html'}
+- {name: 'Teaching', url: 'teaching.html'}
 - {name: 'হ য ব র ল',  url: 'writing.html'}
 # - {name: 'Contact',  url: 'contact.html'}
-- {name: 'Teaching', url: 'teaching.html'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
