@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome to Lagrange!
-permalink: /about
+title: Teaching
+permalink: /teaching
 ---
 
 I Teach
