@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h1>
+  {{ page.title }}
+</h1>
+
+<ul class="posts-container">
+  {% for research in site.researches %}
+    {% unless research.next %}
+      <h3>{{ research.date | date: '%Y' }}</h3>
+    {% else %}
+      {% capture year %}{{ research.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ research.next.date | date: '%Y' }}{% endcapture %}
+      {% if year != nyear %}
+        <h3>{{ research.date | date: '%Y' }}</h3>
+      {% endif %}
+    {% endunless %}
+    <li itemscope>
+      <a href="{{ site.github.url }}{{ research.url }}">{{ research.title }}</a>
+      <p class="post-date"><span><i class="fa fa-calendar" aria-hidden="true"></i> {{ research.date | date: "%B %-d" }} - <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</span></p>
+    </li>
+  {% endfor %}
+</ul>
