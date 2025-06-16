@@ -12,21 +12,20 @@ Modern data science and machine learning present new challenges that calls for r
 
 # Publications & Preprints
 
-1. **Bayes Classifier Cannot Be Learned from Noisy Responses with Unknown Noise Rates**  
-   *Authors:* Soham Bakshi, Subha Maity  
-   *Year:* 2023  
-   *Link:* [arXiv:2304.06523](https://arxiv.org/abs/2304.06523)
-
-2. **Inference with Randomized Regression Trees**  
+1. **Inference with Randomized Regression Trees**  
    *Authors:* Soham Bakshi, Yiling Huang, Snigdha Panigrahi, Walter Dempsey  
    *Year:* 2024  
    *Link:* [arXiv:2412.20535](https://arxiv.org/abs/2412.20535)
 
-3. **Selective Inference for Time-varying Effect Moderation**  
+2. **Selective Inference for Time-varying Effect Moderation**  
    *Authors:* Soham Bakshi, Walter Dempsey, Snigdha Panigrahi  
    *Year:* 2024  
-   *Link:* [arXiv:2412.20535](https://arxiv.org/abs/2412.20535)
+   *Link:* [arXiv:2412.20535](https://arxiv.org/abs/2411.15908)
 
+1. **Bayes Classifier Cannot Be Learned from Noisy Responses with Unknown Noise Rates**  
+   *Authors:* Soham Bakshi, Subha Maity  
+   *Year:* 2023  
+   *Link:* [arXiv:2304.06523](https://openreview.net/forum?id=U4o5iSWSaD)
 
 4. **How to Approximate Irrational Numbers Nicely?**  
    *Authors:* Tirthankar Bhattacharyya, Soham Bakshi, Arka Das  
@@ -37,11 +36,7 @@ Modern data science and machine learning present new challenges that calls for r
    *Author:* Soham Bakshi  
    *Journal:* Resonance, Volume 27, Issue 1, Pages 131–142  
    *Year:* 2022  
-   *Link:* [Springer (if applicable)](https://link.springer.com/article/10.1007/s12045-021-1254-0)
-
-
-
-## Published Works
+   *Link:* [Springer](https://doi.org/10.1007/s12045-022-1298-1)
 
 
 # Presentations
