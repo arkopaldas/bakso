@@ -23,9 +23,10 @@ Modern data science and machine learning present new challenges that calls for r
    *Link:* [arXiv:2412.20535](https://arxiv.org/abs/2411.15908)
 
 1. **Bayes Classifier Cannot Be Learned from Noisy Responses with Unknown Noise Rates**  
-   *Authors:* Soham Bakshi, Subha Maity  
+   *Authors:* Soham Bakshi, Subha Maity
+   *Conference:* ICLR 2023 (Tiny Papers)
    *Year:* 2023  
-   *Link:* [arXiv:2304.06523](https://openreview.net/forum?id=U4o5iSWSaD)
+   *Link:* [OpenReview](https://openreview.net/forum?id=U4o5iSWSaD)
 
 4. **How to Approximate Irrational Numbers Nicely?**  
    *Authors:* Tirthankar Bhattacharyya, Soham Bakshi, Arka Das  
