@@ -23,8 +23,8 @@ Modern data science and machine learning present new challenges that calls for r
    *Link:* [arXiv:2412.20535](https://arxiv.org/abs/2411.15908)
 
 1. **Bayes Classifier Cannot Be Learned from Noisy Responses with Unknown Noise Rates**  
-   *Authors:* Soham Bakshi, Subha Maity
-   *Conference:* ICLR 2023 (Tiny Papers)
+   *Authors:* Soham Bakshi, Subha Maity 
+   *Published as a Tiny Paper at ICLR 2023* 
    *Year:* 2023  
    *Link:* [OpenReview](https://openreview.net/forum?id=U4o5iSWSaD)
 
