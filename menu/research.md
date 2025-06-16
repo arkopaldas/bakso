@@ -4,18 +4,41 @@ title: Research
 permalink: /research
 ---
 
-Modern data science and machine learning present new challenges that calls for robust theoretical frameworks to analyze complex, high-dimensional data and to ensure reliable inference from data-driven methods. My research aims to devise innovative statistical methodologies that provide rigorous theoretical guarantees, with applications in cutting-edge data-driven science. My current research interests organized around these themes: 
+Modern data science and machine learning present new challenges that calls for robust theoretical frameworks to analyze complex, high-dimensional data and to ensure reliable inference from data driven methods. My research aims to devise innovative statistical methodologies that provide rigorous theoretical guarantees, with applications in contemporary data driven science. My current research interests organized around these themes: 
 
 1. **Selective Inference**
 
 2. **Theoretical Machine Learning**
 
-# Publications
+# Publications & Preprints
+
+1. **Bayes Classifier Cannot Be Learned from Noisy Responses with Unknown Noise Rates**  
+   *Authors:* Soham Bakshi, Subha Maity  
+   *Year:* 2023  
+   *Link:* [arXiv:2304.06523](https://arxiv.org/abs/2304.06523)
+
+2. **Inference with Randomized Regression Trees**  
+   *Authors:* Soham Bakshi, Yiling Huang, Snigdha Panigrahi, Walter Dempsey  
+   *Year:* 2024  
+   *Link:* [arXiv:2412.20535](https://arxiv.org/abs/2412.20535)
+
+3. **Selective Inference for Time-varying Effect Moderation**  
+   *Authors:* Soham Bakshi, Walter Dempsey, Snigdha Panigrahi  
+   *Year:* 2024  
+   *Link:* [arXiv:2412.20535](https://arxiv.org/abs/2412.20535)
 
 
-## Preprints
+4. **How to Approximate Irrational Numbers Nicely?**  
+   *Authors:* Tirthankar Bhattacharyya, Soham Bakshi, Arka Das  
+   *Year:* 2022  
+   *Link:* [arXiv:2206.12579](https://arxiv.org/abs/2206.12579)
 
- - 
+5. **Set of Points of Continuity and Maximally Discontinuous Extensions**  
+   *Author:* Soham Bakshi  
+   *Journal:* Resonance, Volume 27, Issue 1, Pages 131–142  
+   *Year:* 2022  
+   *Link:* [Springer (if applicable)](https://link.springer.com/article/10.1007/s12045-021-1254-0)
+
 
 
 ## Published Works
