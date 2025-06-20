@@ -8,9 +8,11 @@ layout: default
 
 <div class="hrow">
   <div class="column left">
-    {% for post in site.posts %}
-      <li><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+    <ul>
+      {% for post in site.posts %}
+        <li><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></li>
+      {% endfor %}
+    </ul>
   </div>
   <div class="column right">
     <blockquote>
