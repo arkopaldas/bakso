@@ -14,7 +14,7 @@ baseurl: "/BakSo"
 url: ""
 
 # jekyll-paginate configuration
-paginate:            5
+paginate:            4
 
 # Build settings
 markdown:            kramdown
