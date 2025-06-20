@@ -25,6 +25,10 @@
   gap: 50px;
 }
 
+.column{
+  vertical-align: middle
+}
+
 /*48em*/
 
 @media (max-width: $container-responsive-width) {
