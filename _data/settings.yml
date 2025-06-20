@@ -17,10 +17,10 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'file', link: 'assets/file/cv.pdf'}
 - {icon: 'github', link: 'https://github.com/BakshiSoham'}
 - {icon: 'google', link: 'https://scholar.google.com/citations?user=WuIfUrYAAAAJ&hl=en'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/soham-bakshi-186b56180'}
+- {icon: 'file', link: 'assets/file/cv.pdf'}
 - {icon: 'envelope', link: 'mailto:bakso@umich.edu'}
 - {icon: 'instagram', link: 'https://www.instagram.com/meaningfully_meaningless/'}
 # - {icon: 'rss-square', link: '/feed.xml'}
