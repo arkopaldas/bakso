@@ -12,16 +12,11 @@
   margin-bottom: 4rem;
 }
 
-.column {
-  float: left;
-  width: 50%;
-}
-
 /* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+.row{
+  display: grid;
+  grid-template-columns: 30% 70%;
+  gap: 20px;
 }
 
 /*48em*/
@@ -29,6 +24,10 @@
 @media (max-width: $container-responsive-width) {
   .container {
     width: 90vw;
+  }
+
+  .row {
+    grid-template-columns: 1fr;
   }
 }
 
