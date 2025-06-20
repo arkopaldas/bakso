@@ -15,13 +15,13 @@
 /* Clear floats after the columns */
 .row{
   display: grid;
-  grid-template-columns: 30% 70%;
+  grid-template-columns: 30% 60%;
   gap: 50px;
 }
 
 .hrow{
   display: grid;
-  grid-template-columns: 50% 50%;
+  grid-template-columns: 45% 45%;
   gap: 50px;
 }
 
