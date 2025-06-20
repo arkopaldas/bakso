@@ -9,11 +9,23 @@
   text-align: justify;
 }
 
+[data-theme="light"] {
+  --color-bg: $body-color;
+  --color-fg: black;
+}
+
+[data-theme="dark"] {
+  --color-bg: $body-dark-color;
+  --color-fg: $dark-color;
+}
+
 body {
   font-family: $serif-font-family;
   font-size: 18px;
-  color: $body-color;
+  // color: $body-color;
   line-height: 1.75rem;
+  background-color: var(--color-bg);
+  color: var(--color-fg);
 }
 
 @media (max-width: $elements-responsive-width) {
