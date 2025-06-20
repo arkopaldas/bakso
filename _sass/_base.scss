@@ -2,6 +2,13 @@
   Base
 */
 
+*{
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  text-align: justify;
+}
+
 body {
   font-family: $serif-font-family;
   font-size: 18px;
