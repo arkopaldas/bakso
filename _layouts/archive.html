@@ -9,18 +9,16 @@ layout: default
 <div class="hrow">
   <div class="column left">
     {% for post in site.posts %}
-      <li itemscope>
-        <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
-      </li>
+      <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
     {% endfor %}
   </div>
   <div class="column right">
     <pre>
-      <q> I can fly higher than a kite
+      <q><p> I can fly higher than a kite
       and I do write whatever I might
       If this somehow catches your sight
       do justice and use it to win your fights
-      but never assume it's within your rights </q>
+      but never assume it's within your rights </p></q>
   </pre>
   </div>
 </div>
