@@ -59,6 +59,7 @@ blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
   border-left: 0.25em solid $extra-light-gray-color;
+  background: $code-background-color;
   color: $light-gray-color;
   line-height: 1.5;
 }
