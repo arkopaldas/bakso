@@ -6,9 +6,9 @@ permalink: /research
 
 Modern data science and machine learning present new challenges that calls for robust theoretical frameworks to analyze complex, high-dimensional data and to ensure reliable inference from data driven methods. My research aims to devise innovative statistical methodologies that provide rigorous theoretical guarantees, with applications in contemporary data driven science. My current research interests organized around these themes: 
 
-1. **Selective Inference**
+1. **Explore randomized Methods for conditional inference after wide-range of data-driven selection**
 
-2. **Theoretical Machine Learning**
+2. **Novel statistical frameworks to gain theoretical insights for complex situations arising in today's Machine Learning**
 
 # Publications & Preprints
 
