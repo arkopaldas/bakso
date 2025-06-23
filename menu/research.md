@@ -47,5 +47,5 @@ Modern data science and machine learning present new challenges that calls for r
 2. **Non-Identifiability of Bayes Classifier** [slides]  
    *Joint Statistical Meet (JSM) 2023, Torronto, Canada*
    
-3. **Hopf-Rinow's theorem and Geodesic Completeness** [slides](/assets/file/SIMRT.pdf)  
+3. **Hopf-Rinow's theorem and Geodesic Completeness** [*(slides)*](/assets/file/SIMRTSlides.pdf)  
    *VSRP 2021, School of Mathematics, TIFR, India*
