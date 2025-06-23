@@ -41,11 +41,11 @@ Modern data science and machine learning present new challenges that calls for r
 
 # Selected Talks
 
-1. **Selective Inference for Time-Varying Moderated Effects** [slides]  
+1. **Selective Inference for Time-Varying Moderated Effects** [*(slides)*](/assets/file/SIMRTSlides.pdf)  
    *Statistical Analysis of Multi-Outcome Data (SAM) 2024, Salzburg, Austria*
    
-2. **Non-Identifiability of Bayes Classifier** [slides]  
+2. **Non-Identifiability of Bayes Classifier** [*(slides)*](/assets/file/slides_jsm.pdf)  
    *Joint Statistical Meet (JSM) 2023, Torronto, Canada*
    
-3. **Hopf-Rinow's theorem and Geodesic Completeness** [*(slides)*](/assets/file/SIMRTSlides.pdf)  
+3. **Hopf-Rinow's theorem and Geodesic Completeness** [*(slides)*]  
    *VSRP 2021, School of Mathematics, TIFR, India*
