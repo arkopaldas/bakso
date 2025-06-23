@@ -4,11 +4,11 @@ title: Research
 permalink: /research
 ---
 
-Modern data science and machine learning present new challenges that calls for robust theoretical frameworks to analyze complex, high-dimensional data and to ensure reliable inference from data driven methods. My research aims to devise innovative statistical methodologies that provide rigorous theoretical guarantees, with applications in contemporary data driven science. My current research interests organized around these themes: 
+Modern data science and machine learning present new challenges that calls for robust theoretical frameworks to analyze complex, high-dimensional data and to ensure reliable inference from data driven methods. My research aims to devise innovative statistical methodologies that provide rigorous theoretical guarantees, with applications in contemporary data driven science. My current research interests can be organized around these themes: 
 
-1. **Explore randomized Methods for conditional inference after wide-range of data-driven selection**
+1. **Explore randomization to facilitate conditional inference for a wide-range of data-driven methods**
 
-2. **Novel statistical frameworks to gain theoretical insights for complex situations arising in today's Machine Learning**
+2. **Develop statistical frameworks to gain theoretical insights for complex situations arising in today's ML and AI world**
 
 # Publications & Preprints
 
@@ -39,4 +39,13 @@ Modern data science and machine learning present new challenges that calls for r
    *Link:* [Springer](https://doi.org/10.1007/s12045-022-1298-1)
 
 
-# Presentations
+# Selected Talks
+
+1. **Selective Inference for Time-Varying Moderated Effects** [slides]  
+   *Statistical Analysis of Multi-Outcome Data (SAM) 2024, Salzburg, Austria*
+   
+2. **Non-Identifiability of Bayes Classifier** [slides]  
+   *Joint Statistical Meet (JSM) 2023, Torronto, Canada*
+   
+3. **Hopf-Rinow's theorem and Geodesic Completeness** [slides]  
+   *VSRP 2021, School of Mathematics, TIFR, India*
