@@ -27,7 +27,6 @@
         }
       });
     const toggle = document.getElementById('toggle');
-    const tog = document.getElementById('tog');
     const body = document.body;
 
     body.classList.add('light');
@@ -35,10 +34,8 @@
     toggle.addEventListener('click', () => {
         if (body.classList.contains('light')) {
             body.classList.replace('light', 'dark');
-            tog.classList.replace('fa-toggle-off', 'fa-toggle-on');
         } else {
             body.classList.replace('dark', 'light');
-            tog.classList.replace('fa-toggle-on', 'fa-toggle-off');
         }
     });
   </script>
