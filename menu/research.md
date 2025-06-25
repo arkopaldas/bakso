@@ -47,8 +47,7 @@ Modern data science and machine learning present new challenges that calls for r
 2. **Non-Identifiability of Bayes Classifier** [*(slides)*](/assets/file/slides_jsm.pdf)  
    *Joint Statistical Meet (JSM) 2023, Torronto, Canada*
 
-3. **Geomnetry in Statistics** [*(slides)*](/assets/file/slides_statgeo.pdf)
-
+3. **Geomnetry in Statistics** [*(slides)*](/assets/file/slides_statgeo.pdf) 
    *Math Club 2022, Indian Statistical Institute, Bangaluru Centre, India*
    
 5. **Hopf-Rinow's theorem and Geodesic Completeness** [*(slides)*](/assets/file/VSRP.pdf)  
