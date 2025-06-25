@@ -27,19 +27,20 @@
         }
       });
     const toggle = document.getElementById('toggle');
-      const body = document.body;
+    const tog = document.getElementById('tog');
+    const body = document.body;
 
-      body.classList.add('light');
+    body.classList.add('light');
 
-      toggle.addEventListener('click', () => {
-          if (body.classList.contains('light')) {
-              body.classList.replace('light', 'dark');
-              toggle.classList.replace('fa-toggle-off', 'fa-toggle-on');
-          } else {
-              body.classList.replace('dark', 'light');
-              toggle.classList.replace('fa-toggle-on', 'fa-toggle-off');
-          }
-      });
+    toggle.addEventListener('click', () => {
+        if (body.classList.contains('light')) {
+            body.classList.replace('light', 'dark');
+            tog.classList.replace('fa-toggle-off', 'fa-toggle-on');
+        } else {
+            body.classList.replace('dark', 'light');
+            tog.classList.replace('fa-toggle-on', 'fa-toggle-off');
+        }
+    });
   </script>
   <!-- Google Analytics -->
   {% include google-analytics.html %}
