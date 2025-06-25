@@ -17,13 +17,15 @@ body {
   transition: background-color 0.3s, color 0.3s;
 }
 
-body.dark{
-  color: $body-dark-color;
+body.light-mode {
+    background-color: #f4f4f4;
+    color: #333;
 }
-
-body.light{
-  color: $body-color; // #e32d20 #f02d1f
+body.dark-mode {
+    background-color: #333;
+    color: brown;
 }
+// #e32d20 #f02d1f
 
 @media (max-width: $elements-responsive-width) {
   body {
