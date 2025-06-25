@@ -12,20 +12,18 @@
 body {
   font-family: $serif-font-family;
   font-size: 18px;
-  color: $body-color;
   line-height: 1.75rem;
   transition: background-color 0.3s, color 0.3s;
 }
 
 body.light-mode {
-    background-color: #f4f4f4;
-    color: #333;
+  background-color: $body-bg-color;
+  color: $body-color;
 }
 body.dark-mode {
-    background-color: #333;
-    color: brown;
+  background-color: $body-bg-dark-color;
+  color: $body-bg-color;
 }
-// #e32d20 #f02d1f
 
 @media (max-width: $elements-responsive-width) {
   body {
