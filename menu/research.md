@@ -4,11 +4,11 @@ title: Research
 permalink: /research
 ---
 
-Modern data science and machine learning present new challenges that calls for robust theoretical frameworks to analyze complex, high-dimensional data and to ensure reliable inference from data driven methods. My research aims to devise innovative statistical methodologies that provide rigorous theoretical guarantees, with applications in contemporary data driven science. My current research interests can be organized around these themes: 
+Modern data science and machine learning present new challenges that calls for rigorous theoretical frameworks to analyze complex, high-dimensional data and to ensure reliable inference from data driven methods. My research aims to devise innovative statistical methodologies that provide robust inferential guarantees, with applications in causal inference and contemporary data-science. My current research interests can be organized around the following themes: 
 
-1. **Explore randomization to facilitate conditional inference for a wide-range of data-driven methods**
+1. **Explore randomization as a tool to facilitate flexible and tractable inference for a wide-range of data-driven methods**
 
-2. **Develop statistical frameworks to gain theoretical insights for complex situations arising in today's ML and AI world**
+2. **Develop novel statistical frameworks to advance theoretical insight into the complexities arising in today's AI & ML systems**
 
 # Publications & Preprints
 
