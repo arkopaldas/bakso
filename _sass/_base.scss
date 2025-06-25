@@ -16,11 +16,11 @@ body {
   transition: background-color 0.3s, color 0.3s;
 }
 
-body.light-mode {
+body.light {
   background-color: $body-bg-color;
   color: $body-color;
 }
-body.dark-mode {
+body.dark {
   background-color: $body-bg-dark-color;
   color: $body-bg-color;
 }
