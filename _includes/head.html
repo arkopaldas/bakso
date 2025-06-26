@@ -29,13 +29,26 @@
     const toggle = document.getElementById('toggle');
     const body = document.body;
 
+    const elements = document.querySelectorAll('a, h1, h2, h3, h4, h5, h6');
+    
+    elements.forEach(el => {
+      el.classList.add('light');
+    });
+
+
     body.classList.add('light');
 
     toggle.addEventListener('click', () => {
         if (body.classList.contains('light')) {
             body.classList.replace('light', 'dark');
+            elements.forEach(el => {
+              el.classList.replace('light', 'dark');
+            });
         } else {
             body.classList.replace('dark', 'light');
+            elements.forEach(el => {
+              el.classList.replace('dark', 'light');
+            });
         }
     });
   </script>
