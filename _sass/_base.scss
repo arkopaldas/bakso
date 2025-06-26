@@ -22,7 +22,7 @@ body.light {
 }
 body.dark {
   background-color: $body-dark-bg-color;
-  color: $body-dark-bg-color;
+  color: $body-dark-color;
 }
 
 @media (max-width: $elements-responsive-width) {
