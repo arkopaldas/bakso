@@ -26,10 +26,11 @@
           inlineMath: [['$', '$'], ['\\(', '\\)']]
         }
       });
+    
     const toggle = document.getElementById('toggle');
     const body = document.body;
 
-    const elements = document.querySelectorAll('a, h1, h2, h3, h4, h5, h6');
+    const elements = document.querySelectorAll('a, h1, h2, h3, h4, h5, h6, blockquote');
     
     elements.forEach(el => {
       el.classList.add('light');
