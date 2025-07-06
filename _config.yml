@@ -10,7 +10,7 @@
 #   sort_field: 'date'
 #   sort_reverse: true
 
-baseurl: "/BakSo"
+baseurl: "/BakSo" # /homepage
 url: ""
 
 # jekyll-paginate configuration
