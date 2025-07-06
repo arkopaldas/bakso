@@ -29,15 +29,26 @@ $container-responsive-width: 768px;
 $elements-responsive-width:  30em;
 
 $icon-transition-time: .5s;
-$envelope-color:       #f39c12;
-$twitter-color:        #00aced;
-$instagram-color:      #375989;
-$github-color:         #343434;
-$linkedin-color:       #0073a4;
-$facebook-color:       #3d5b99;
-$pinterest-color:      #bd081c;
-$medium-color:         #00AB6C;
-$codepen-color:        black;
-$rss-color:            #ff6600;
+// $envelope-color:       #f39c12;
+// $twitter-color:        #00aced;
+// $instagram-color:      #375989;
+// $github-color:         #343434;
+// $linkedin-color:       #0073a4;
+// $facebook-color:       #3d5b99;
+// $pinterest-color:      #bd081c;
+// $medium-color:         #00AB6C;
+// $codepen-color:        black;
+// $rss-color:            #ff6600;
+
+$envelope-color:       #f53a2c;
+$twitter-color:        #f53a2c;
+$instagram-color:      #f53a2c;
+$github-color:         #f53a2c;
+$linkedin-color:       #f53a2c;
+$facebook-color:       #f53a2c;
+$pinterest-color:      #f53a2c;
+$medium-color:         #f53a2c;
+$codepen-color:        #f53a2c;
+$rss-color:            #f53a2c;
 
 @import "-sections-dir";
