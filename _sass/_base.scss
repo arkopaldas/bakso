@@ -43,25 +43,23 @@ h1 a {
   text-decoration: none;
 }
 
-
-// a {
-//   text-decoration: underline;
-//   color: $dark-gray-color;
-// }
-
-
 h1, h2, h3, h4, h5, h6 {
   font-family: $sans-serif-font-family;
   // color: $dark-gray-color;
 }
 
+blockquote {
+  margin: 10px 20px 10px;
+  padding: 15px 15px;
+  line-height: 1.5;
+}
 
-h1.light, h2.light, h3.light, h4.light, h5.light, h6.light, a.light {
+h1.light, h2.light, h3.light, h4.light, h5.light, h6.light, a.light, blockquote.light {
   color: $dark-gray-color;
 }
 
 
-h1.dark, h2.dark, h3.dark, h4.dark, h5.dark, h6.dark, a.dark {
+h1.dark, h2.dark, h3.dark, h4.dark, h5.dark, h6.dark, a.dark, blockquote.dark {
   color: $body-dark-color;
 }
 
@@ -75,19 +73,20 @@ a.dark:hover{
   border-bottom: none;
 }
 
+blockquote.light{
+  border-left: 0.25em solid $extra-light-gray-color;
+  background: $code-background-color;
+}
+
+blockquote.dark{
+  border-left: 0.25em solid $blockquote-border-dark;
+  background: $blockquote-bg-dark;
+}
+
 img {
   max-width: 100%;
   height: auto;
   border-radius: 5px;
-}
-
-blockquote {
-  margin: 10px 20px 10px;
-  padding: 15px 15px;
-  border-left: 0.25em solid $extra-light-gray-color;
-  background: $code-background-color;
-  color: $dark-gray-color;
-  line-height: 1.5;
 }
 
 hr {
